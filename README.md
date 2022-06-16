@@ -1,1 +1,28 @@
-# SistemasEmbarcados
+## SistemasEmbarcados
+
+| Eduardo Yasui | Gabriel Gamon | Luca Poe | Pedro Vitor | Vitor Alexandre |
+| --------- | --------- | --------- | --------- | --------- | 
+
+## Itens Usados
+
+* Teclado 4x4; 
+* Bateria 6V // adaptador de tomada;
+* Arduino Uno R3;
+* LCD 16 x 2;
+* Resistor;
+* Micro servo;
+* Fios;
+* Case;
+
+## Gasto Itens
+
+1. Arduino Uno R3 - R$109,99;
+2. Protoboard (placa De Ensaio) 400 Pontos Furos - R$ 37,99;
+3. Resistor - R$ 0,06;
+4. Display Lcd 16x2 1602 Fundo Azul + Modulo I2c - R$36,99;
+5. Teclado Matricial 16 Teclas Alfanumérico 4x4 / Nfc - R$45,90;
+6. Micro Servo 9g Sg90 Towerpro Arduino Robótica Aeromodelismo - R$19,99;
+
+## Lucro
+
+## Comparativos de Mercado
