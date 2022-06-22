@@ -3,15 +3,16 @@
 | Eduardo Yasui | Gabriel Gamon | Luca Poe | Pedro Vitor | Vitor Alexandre |
 | --------- | --------- | --------- | --------- | --------- | 
 
-## Projeto
+## Projeto: Trava Eletrônica com Senha 
 
-![Projeto](https://github.com/Ryaross/SistemasEmbarcados/blob/main/projeto.png)
+![Projeto](https://github.com/Ryaross/SistemasEmbarcados/blob/main/Projeto.jpeg)
 
 ## Itens Usados
 
 * Teclado 4x4; 
 * Bateria 6V // adaptador de tomada;
 * Arduino Uno R3;
+* Protoboard;
 * LCD 16 x 2;
 * Resistor;
 * Micro servo;
