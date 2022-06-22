@@ -3,6 +3,10 @@
 | Eduardo Yasui | Gabriel Gamon | Luca Poe | Pedro Vitor | Vitor Alexandre |
 | --------- | --------- | --------- | --------- | --------- | 
 
+## Projeto
+
+![Projeto](https://github.com/Ryaross/SistemasEmbarcados/blob/main/projeto.png)
+
 ## Itens Usados
 
 * Teclado 4x4; 
