@@ -45,17 +45,15 @@ Para realizarmos a produção de uma unidade do produto seria necessáario um in
 * R$45,44 x 3 = R$136.32 (com esse valor de venda o produto lucraria básicamente seu próprio valor de produção).
 
 ### Valor de venda do produto:
-* RS$ 139,99.
+* R$ 139,99.
 * Lucro - R$94.55.
 
-* No caso de fabricação de 10 unidades o valor ficaria:
+### No caso de fabricação de 10 unidades o valor ficaria:
 - R$454,40 (custo de fabricação);
 - R$1.399,99 (valor de venda).
 
-* Lucro:
+### Lucro:
 - R$945,50
-
-
 
 ## Comparativos de Mercado
 
