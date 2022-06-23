@@ -35,12 +35,30 @@
 * 10 unidades R$52,00;
 7. Case - R$4,16;
 * 10 unidades R$41,6;
-8. Fios - Pack40 unidades R$2,29;
+8. Fios - Pack40 unidades R$2,29.
 
 ## Lucro
 
+Para realizarmos a produção de uma unidade do produto seria necessáario um investimento de **R$45,44**, isso baseado no valor do dolar do dia de hoje (R$5,20) e sem levar em consideração a mão de obra para a fabricação do produto.
+
+* R$45,44 x 2 = R$90,90 (nesse caso o prórprio produto já pagaria sua produção);
+* R$45,44 x 3 = R$136.32 (com esse valor de venda o produto lucraria básicamente seu próprio valor de produção).
+
+### Valor de venda do produto:
+* RS$ 139,99.
+* Lucro - R$94.55.
+
+* No caso de fabricação de 10 unidades o valor ficaria:
+- R$454,40 (custo de fabricação);
+- R$1.399,99 (valor de venda).
+
+* Lucro:
+- R$945,50
+
+
+
 ## Comparativos de Mercado
 
-Nosso produto possuí diversos concorrentes de mercado, porém o que nos divere dos demais é questão de custo de compra para o consumidor, grande parte de nossos concorrentes pussuem um preço muito alto, o produto se encontra desde R$ 600,00 até R$ 3.000,00. Alguns exemplos de concorrentes:
+Nosso produto possuí diversos concorrentes de mercado, porém o que nos divere dos demais é questão de custo de compra para o consumidor, grande parte de nossos concorrentes pussuem um preço muito alto, o produto se encontra desde R$600,00 até R$3.000,00. Alguns exemplos de concorrentes:
 
 ![Concorrentes](https://github.com/Ryaross/SistemasEmbarcados/blob/main/Concorrentes.png)
