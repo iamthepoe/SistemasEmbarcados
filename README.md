@@ -31,3 +31,7 @@
 ## Lucro
 
 ## Comparativos de Mercado
+
+Nosso produto possuí diversos concorrentes de mercado, porém o que nos divere dos demais é questão de custo de compra para o consumidor, grande parte de nossos concorrentes pussuem um preço muito alto, o produto se encontra desde R$ 600,00 até R$ 3.000,00. Alguns exemplos de concorrentes:
+
+![Concorrentes](https://github.com/Ryaross/SistemasEmbarcados/blob/main/Concorrentes.png)
