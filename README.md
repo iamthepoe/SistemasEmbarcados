@@ -21,12 +21,21 @@
 
 ## Gasto Itens
 
-* Arduino Uno R3 - R$109,99;
-* Protoboard (placa De Ensaio) 400 Pontos Furos - R$ 37,99;
-* Resistor - R$ 0,06;
-* Display Lcd 16x2 1602 Fundo Azul + Modulo I2c - R$36,99;
-* Teclado Matricial 16 Teclas Alfanumérico 4x4 / Nfc - R$45,90;
-* Micro Servo 9g Sg90 Towerpro Arduino Robótica Aeromodelismo - R$19,99;
+1. Arduino Uno R3 - R$17,40;
+* 10 unidades - R$174,00;
+2. Protoboard 400 pontos - R$1,32;
+* 10 unidades - R$13,20;
+3. Resistor - R$0,06;
+* 5000 unidades - R$41,56;
+4. Display Lcd 16x2 - R$11,95;
+* 10 unidades R$119,5;
+5. Teclado Matricial 16 Teclas Alfanumérico 4x4 / Nfc - R$3,12;
+* 10 unidades R$31,20;
+6. Micro Servo - R$5,20;
+* 10 unidades R$52,00;
+7. Case - R$4,16;
+* 10 unidades R$41,6;
+8. Fios - Pack40 unidades R$2,29;
 
 ## Lucro
 
